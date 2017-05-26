@@ -1,0 +1,15 @@
+#Wed Nov 16 22:43:44 CST 2016
+eclipse.preferences.version=1
+encoding//src/main/java/cn/plxpl/wx/message/req=GBK
+encoding//src/main/java/cn/plxpl/wx/message/resp=GBK
+encoding//src/main/java/cn/plxpl/wx/service/impl=UTF-8
+encoding//src/main/java/cn/plxpl/wx/service/impl/CoreService.java=UTF-8
+encoding//src/main/java/cn/plxpl/wx/service/impl/PayService.java=UTF-8
+encoding//src/main/java/cn/plxpl/wx/thread/TokenThread.java=GBK
+encoding//src/main/java/cn/plxpl/wx/util=GBK
+encoding//src/main/resources/jdbc.properties=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/navigation.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/wap/footer.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/wap/wxtest.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/log4j.properties=UTF-8
+encoding/<project>=UTF-8
